@@ -1,3 +1,15 @@
+---
+title: MedMultiSync - Multimodal Healthcare AI
+emoji: 🩺
+colorFrom: blue
+colorTo: cyan
+sdk: gradio
+sdk_version: 6.0.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # 🩺 Multimodal AI in Healthcare: Bridging Medical Imaging, Clinical Text & EHR Signals
 
 > **Academic Seminar Presentation & Companion Demonstration Project**  
