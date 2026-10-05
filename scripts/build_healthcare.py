@@ -40,7 +40,7 @@ def main():
         fn(prs)
 
     prs.core_properties.title = "Multimodal AI in Healthcare"
-    prs.core_properties.author = "Bezaleel Paul N"
+    prs.core_properties.author = "Bezaleel Paul N, Adithya Ramesh, Akash Rajpurohit"
     prs.core_properties.subject = "IEEE Seminar on Multimodal Diagnostics, Cross-Attention & Precision Medicine"
     prs.save(OUT)
     print(f"\nSuccessfully wrote presentation to:\n{OUT}\nTotal slides: {len(prs.slides)}")

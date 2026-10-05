@@ -27,7 +27,7 @@ st.title("🩺 MedMultiSync: Multimodal Clinical Decision Support System")
 st.markdown(
     """
     **Fusing Medical Imaging, EHR Vitals, and Physician Notes (IEEE JBHI Architecture)**  
-    *Presenter: Bezaleel Paul N | B.Tech Computer Science and Engineering*
+    *Speakers: Bezaleel Paul N · Adithya Ramesh · Akash Rajpurohit | B.Tech Computer Science and Engineering*
     """
 )
 st.divider()

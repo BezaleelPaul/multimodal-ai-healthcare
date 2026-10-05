@@ -101,7 +101,7 @@ with gr.Blocks(
         """
         # 🩺 MedMultiSync: Multimodal Clinical Decision Support System
         ### Fusing Medical Imaging, EHR Vitals, and Physician Notes (IEEE JBHI Architecture)
-        **Presenter:** Bezaleel Paul N &nbsp;|&nbsp; **Academic Seminar:** B.Tech Computer Science and Engineering  
+        **Speakers:** Bezaleel Paul N · Adithya Ramesh · Akash Rajpurohit &nbsp;|&nbsp; **Academic Seminar:** B.Tech Computer Science and Engineering  
         *Grounded in IEEE Journal of Biomedical and Health Informatics & IEEE Transactions on Biomedical Engineering.*
         ---
         """

@@ -36,7 +36,7 @@ from .theme import (
     tbox,
 )
 
-FOOTER = "Multimodal AI in Healthcare  |  IEEE Seminar  |  Presenter: Bezaleel Paul N"
+FOOTER = "Multimodal AI in Healthcare  |  IEEE Seminar  |  Bezaleel · Adithya · Akash"
 
 
 # ------------------------------------------------------------------ Slide 1: Title ---
@@ -96,12 +96,12 @@ def slide_title(prs):
         tbox(s, cx + 0.18, cy + 0.48, card_w - 0.36, 0.40, m_title, size=11.5, bold=True, color=WHITE)
         tbox(s, cx + 0.18, cy + 0.95, card_w - 0.36, 0.45, m_desc, size=10.0, color=MUTED)
 
-    # Presenter Information Footer Card
+    # Presenters Information Footer Card
     panel(s, 0.85, 5.55, 11.65, 1.15, fill=PANEL_2, line=HAIRLINE, radius=0.08)
-    tbox(s, 1.15, 5.70, 6.0, 0.38, "Presenter: Bezaleel Paul N", size=15, bold=True, color=WHITE)
-    tbox(s, 1.15, 6.12, 6.0, 0.38, "B.Tech Computer Science and Engineering  |  Academic Seminar", size=11, color=MUTED)
-    tbox(s, 7.20, 5.70, 5.0, 0.38, "Companion Project: MedMultiSync (Live Colab Demo)", size=12, bold=True, color=EMERALD, align="r")
-    tbox(s, 7.20, 6.12, 5.0, 0.38, "Grounded in IEEE JBHI, IEEE TBME & Nature Medicine literature", size=10.5, color=DIM, align="r")
+    tbox(s, 1.15, 5.70, 6.2, 0.38, "Speakers: Bezaleel Paul N · Adithya Ramesh · Akash Rajpurohit", size=13.0, bold=True, color=WHITE)
+    tbox(s, 1.15, 6.12, 6.2, 0.38, "B.Tech Computer Science and Engineering  |  Academic Seminar", size=11, color=MUTED)
+    tbox(s, 7.40, 5.70, 4.8, 0.38, "Companion Project: MedMultiSync (Live Colab Demo)", size=12, bold=True, color=EMERALD, align="r")
+    tbox(s, 7.40, 6.12, 4.8, 0.38, "Grounded in IEEE JBHI, IEEE TBME & Nature Medicine literature", size=10.5, color=DIM, align="r")
 
 
 # ------------------------------------------------------------------ Slide 2: Roadmap ---
@@ -838,7 +838,7 @@ def slide_conclusion_qa(prs):
         ("Project Name", "MedMultiSync: Multimodal Clinical Decision Support", WHITE),
         ("Cloud Platform", "Google Colab Notebook with 1-Click Live Gradio App", SKY),
         ("Features", "Chest X-Ray + Vitals + Notes -> Grad-CAM + Report", EMERALD),
-        ("Presenter", "Bezaleel Paul N  |  B.Tech CSE", CYAN),
+        ("Speakers", "Bezaleel Paul N · Adithya Ramesh · Akash Rajpurohit", CYAN),
     ]
     for idx, (label_txt, val_txt, val_col) in enumerate(demo_details):
         dy = ry + 0.70 + idx * 0.55

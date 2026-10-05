@@ -13,7 +13,7 @@ license: mit
 # 🩺 Multimodal AI in Healthcare: Bridging Medical Imaging, Clinical Text & EHR Signals
 
 > **Academic Seminar Presentation & Companion Demonstration Project**  
-> **Presenter:** Bezaleel Paul N &nbsp;|&nbsp; **Program:** B.Tech Computer Science & Engineering  
+> **Speakers / Presenters:** Bezaleel Paul N · Adithya Ramesh · Akash Rajpurohit &nbsp;|&nbsp; **Program:** B.Tech Computer Science & Engineering  
 > **Scientific Grounding:** *IEEE Journal of Biomedical and Health Informatics (J-BHI)*, *IEEE Transactions on Biomedical Engineering (TBME)*, *IEEE Access*, and *Nature Medicine*.
 
 ---
