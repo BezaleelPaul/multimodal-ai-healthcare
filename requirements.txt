@@ -4,3 +4,4 @@ gradio>=4.0.0
 pillow>=9.5.0
 numpy>=1.24.0
 python-pptx>=1.0.0
+streamlit>=1.28.0
