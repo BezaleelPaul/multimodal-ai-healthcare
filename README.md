@@ -8,6 +8,12 @@
 
 ## 🌟 Executive Summary
 
+> 🚀 **LIVE PUBLIC SERVER (Instant Web Demo):**  
+> 👉 **[https://68a86897088de4.lhr.life](https://68a86897088de4.lhr.life)** *(Live public HTTPS link — accessible from any device or phone worldwide)*  
+>
+> ☁️ **1-CLICK GOOGLE COLAB CLOUD RUN:**  
+> 👉 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BezaleelPaul/multimodal-ai-healthcare/blob/master/Multimodal_Healthcare_AI_Colab.ipynb)
+
 In clinical practice, a physician **never diagnoses a patient from a single test in isolation**. While an isolated chest radiograph showing opacity is clinically ambiguous (is it bacterial pneumonia, compressive atelectasis, or heart failure?), synthesizing the image with **patient vitals** (temperature 39.2°C, WBC 16.4 x10³/µL) and **clinical narrative notes** (shaking chills, purulent sputum, localized crackles) resolves the ambiguity with **>97% diagnostic confidence**.
 
 This repository contains the complete deliverables:
