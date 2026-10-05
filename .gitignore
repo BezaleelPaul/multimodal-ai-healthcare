@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.ruff_cache/
+
+# Temporary / Scratch files
+scripts/_partial.pptx
+scripts/_partial.py
+scripts/_patch.py
+inspect.txt
+test_engine.py
+build_notebook.py
+.system_generated/
+.gradio/
